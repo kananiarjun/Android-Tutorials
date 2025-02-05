@@ -34,7 +34,7 @@ Each folder contains relevant tutorials and examples to guide you from basic con
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/bhagchandaniniraj/android-tutorials.git
+git clone https://github.com/kananiarjun/android-tutorials.git
 ```
 
 ### 2. Open with Android Studio
@@ -91,7 +91,7 @@ Have any questions or feedback? Join the conversation and stay updated:
 
 ## Author
 
-- **Niraj Bhagchandani** - [https://github.com/bhagchandaniniraj]
+- **Arjun Kanani** - [https://github.com/kananiarjun]
 
 
 ## Acknowledgments
